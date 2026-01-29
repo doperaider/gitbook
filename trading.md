@@ -25,19 +25,32 @@ Smart players monitor markets in real-time, identifying opportunities to:
 
 #### Travel
 
-Players normally travel between adjacent districts, crossing borders with a risk of being busted by law enforcement. However, for a premium fee, players can use Fast Travel to instantly teleport to any district avoiding both travel time and bust risks. Fast Travel offers a safer, strategic option for high-value movements.
+Players normally travel between **adjacent districts**. Travel has a small chance of a law-enforcement bust.
 
-#### Travel Risks: Officer Lardass Busting you
+For a premium fee, players can use **Fast Travel** to instantly travel to **any district** (no adjacency requirement). Fast Travel still avoids travel time, but it does **not** remove the risk mechanics described below.
 
-Traveling between districts carries risk in DopeRaider. Players have a 5% chance of encountering Officer Lardass, a law enforcement figure who actively disrupts the movement of illegal goods. If caught, players can lose up to 50% of their weed or cocaine, representing a significant setback. This mechanic adds strategic tension to travel, encouraging players to plan their routes carefully and consider using Bust Protection Upgrades to reduce the risk of interception.
+**Fees (current test values):**
 
-#### Busting Machanics&#x20;
+* Normal Travel: **$0.10**
+* Fast Travel: **$0.50**
 
-* Players **cannot be busted** if carrying less than **2 weed** and **2 cocaine**.
-* When a bust occurs:
-  * 50% of the confiscated dope is burned, creating a deflationary effect on the economy.
-  * 50% goes into the Vice Island Impound, where it accumulates until players attempt to raid the impound for a potential jackpot payout.
-* Busts also contribute to progression: players earn 2 Respect each time they are busted, reinforcing risk as part of the growth and reputation system.
+#### Travel risks (busts)
+
+Traveling between districts carries risk in DopeRaider.
+
+* **Bust chance:** **5%**
+* **Bust loss:** **50%** of your weed and coke (if you have enough to confiscate)
+
+This adds strategic tension to travel, encouraging players to plan routes and consider **Bust Protection** upgrades.
+
+#### Busting mechanics
+
+* If a bust happens, the game attempts to confiscate **half** your weed and **half** your coke.
+* If the amount to be confiscated is **less than 2** for *both* weed and coke, nothing is confiscated.
+* When a bust confiscates dope:
+  * Your confiscated amounts reduce district supply (deflationary pressure).
+  * **Half** of the confiscated dope is transferred to the **Confiscated Dope** address (LockUp/impound mechanics).
+* Busts also contribute to progression: players earn **2 Respect** each time they are busted.
 
 #### A Self-Sustaining System
 
