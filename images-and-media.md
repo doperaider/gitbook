@@ -6,29 +6,14 @@ icon: swords
 
 <figure><img src=".gitbook/assets/Screenshot 2025-06-26 223747.png" alt=""><figcaption></figcaption></figure>
 
-In the world of DopeRaider, not all targets are created equal. Scattered across the seven districts are **7** Main Bosses, the most powerful and influential figures in the game. These Bosses control significant resources and serve as high-risk, high-reward raid targets for ambitious players.
+In DopeRaider, each district has a current **Boss** — the player with the highest **Respect** in that district.
 
-#### Boss Raids:
+#### What being a Boss means
 
-* Bosses can be raided by players who have the skill, upgrades, and nerve to take them on.
-* Defeating a Boss yields significantly higher rewards compared to standard player raids, including large amounts of product, currency, and respect.
-* Bosses are heavily defended success requires preparation, strategic use of **Raid Power** upgrades, and careful timing.
+* The Boss is a status/leadership position tied to **Respect** (it can change as players gain Respect).
+* When other players **buy dope** in that district market, the Boss receives a **1% boss tax** from the purchase (if the buyer is not the Boss).
 
-#### The Role of Bosses in the Economy:
+#### Notes
 
-Bosses are not just targets; they are central to the game's economy and power structure:
-
-* Their presence creates constant competition and tension in each district.
-* Bosses recieve 1 % of Dope sales
-* Raiding a Boss disrupts their influence, temporarily reshaping market dynamics.
-* Victorious players can alter supply chains, flood markets with seized product, or create scarcity by removing large stockpiles.
-
-#### Only for the Bold:
-
-Challenging a Boss is not for beginners. It requires:
-
-* High levels of Respect and progression.
-* Smart upgrade stacking, particularly Raid Power and Protection.
-* An understanding of market conditions and timing.
-
-However, for those who succeed, Boss raids offer the fastest route to significant wealth, dominance, and reputation within the DopeRaider universe.
+* This is a market mechanic (boss tax), not a special “boss NPC raid”.
+* More boss-related features may be added over time.
