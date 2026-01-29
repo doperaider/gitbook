@@ -18,8 +18,21 @@ Economic success in DopeRaider comes with risk:
 
 #### Referrals
 
-* Players can invite others into the game through a referral system.
-* When a referred player generates revenue, the referrer earns **0.1% of that revenue** as a reward.
-* This incentivizes organic community growth while rewarding players who help expand the DopeRaider ecosystem
+Players can invite others into the game through a referral system.
+
+* A player can have a **referrer** set on-chain.
+* When a player generates revenue through in-game activities that charge fees, a **portion of the dev fee** is paid out to their referrer.
+* Current rule (contracts): the referrer receives **10% of the dev fee** on that activity (if a referrer is set).
+
+This incentivizes organic community growth while rewarding players who bring in active players.
+
+#### The LockUp (confiscated dope)
+
+When a player is busted during travel, the game confiscates some dope.
+
+* Confiscation reduces the player’s inventory.
+* Half of the confiscated dope is transferred to a special on-chain address (the **Confiscated Dope** address).
+
+This creates a pool of seized dope that can be used for LockUp/impound mechanics (see Raiding for more context).
 
 Unlike traditional games, the DopeRaider economy is real, competitive, and shaped entirely by its players. Those who master production efficiency, market strategy, and calculated risk-taking will emerge as the wealthiest and most powerful figures in the game.
