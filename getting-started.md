@@ -19,19 +19,10 @@ Getting into DopeRaider is simple, whether you're a crypto native or new to Web3
 * Telegram users bring their **username and avatar** directly into the game
 * In-app wallets allow easy sending and receiving of tokens  no technical setup required
 
-**2. Bring Your Own Wallet**
-
-* Connect with MetaMask, Trust Wallet, or any supported EVM-compatible wallet
-* Play with your existing wallet and have full control of your assets
-* For testing, we generate a player name and avatar for you
-* Connect to the Base Sepolia test network to participate
-
-
-
 Wallet & Network
 
-* DopeRaider supports both in-app custodial wallets and external wallets
-* Players using external wallets must connect to Base Sepolia for testing
+* DopeRaider automatically creates a secure in-app wallet for you
+* No separate wallet setup required to start playing
 * Mainnet details will be shared closer to launch
 
 
@@ -52,8 +43,8 @@ Detailed inventory screens make it easy to track your assets, manage upgrades, a
 
 FAQs
 
-**Can I use MetaMask or other wallets?**\
-Yes. You can connect with MetaMask, Trust Wallet, or other supported wallets for full asset control.
+**Do I need a wallet to play?**\
+No. DopeRaider automatically creates a secure in-app wallet for you when you log in.
 
 **How do I log in with Telegram?**\
 Simply connect your Telegram account. We create a wallet for you and link your Telegram username and avatar to your profile.
