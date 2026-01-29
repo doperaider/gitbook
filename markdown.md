@@ -4,37 +4,57 @@ icon: trophy
 
 # Upgrades and Trophies
 
-Earn Respect and competitive advantage in DopeRaider  by two interconnected systems Upgrades, which provide temporary, strategic boosts to player performance, and **Trophies**, which represent long-term achievements, reputation, and status within the community.
+Earn Respect and competitive advantage in DopeRaider through two interconnected systems: **Upgrades** (temporary, strategic boosts) and **Trophies** (long-term achievements and status).
 
 Together, these systems ensure that success in DopeRaider is earned through skill, timing, and smart decision-making, rather than simple financial investment.
 
 <figure><img src=".gitbook/assets/Screenshot 2025-06-27 092709.png" alt=""><figcaption></figcaption></figure>
 
-Upgrades
+## Upgrades
 
-Upgrades in DopeRaider are designed to reward strategic planning and active gameplay, while maintaining a strict no pay-to-win environment. They offer short-term boosts that can influence production, trade, and combat, but they are intentionally time-limited to prevent permanent, wallet-driven advantages.
+Upgrades are **temporary boosts** that help you specialize your playstyle (production, trading, or raiding). They’re designed to reward timing and strategy — not permanent wallet advantages.
 
-**Key Upgrade Features:**
+<figure><img src=".gitbook/assets/upgrades-buy.jpg" alt="Buying an upgrade" width="375"><figcaption><p>Buying an upgrade</p></figcaption></figure>
 
-* **Duration Tiers**:
-  * 4 hours (short-term, tactical use)
-  * 8 hours (balanced boost)
-  * 24 hours (longer-term, high-commitment advantage)
-* **Upgrade Types**:
-  * **Raid Power**: Increases success rate during raids, making offensive plays more effective.
-  * **Raid Protection**: Reduces vulnerability to incoming raids, essential for safeguarding assets.
-  * **Bust Protection**: Lowers the risk of being caught during travel or high-risk operations.
-  * **Grow Power**: Accelerates weed cultivation cycles, maximizing production efficiency.
-  * **Produce Power**: Speeds up cocaine processing, increasing product turnover.
-  * **Carry Capacity**: Doubles product carrying capacity, enabling higher-volume trades and reducing travel risk.
+### How upgrades work
 
-Upgrades can be stacked, allowing players to combine boosts for tailored strategies. For example, a player preparing for a high-volume trade run might activate both Carry Capacity and Bust Protection, while a raider could stack Raid Power and Grow Power to strike while producing resources.
+* Upgrades are **time-limited** (they expire).
+* You can **stack** upgrades to build a strategy window (e.g., carry + bust protection for a trade run).
+* Different upgrades matter in different phases: travel, raids, and production loops.
 
-Importantly, all upgrades expire, ensuring the game remains balanced and skill-driven. Players must decide when to deploy their boosts for maximum impact, creating constant tension and opportunity.
+### Upgrade types
+
+**Raid Power**
+* Boosts your offensive edge in raids.
+
+**Raid Protection**
+* Helps protect you from being successfully raided.
+
+**Bust Protection**
+* Helps protect you from losing dope during travel busts.
+
+<figure><img src=".gitbook/assets/bust-protection.jpg" alt="Bust-related protection" width="300"><figcaption><p>Bust protection helps reduce travel risk</p></figcaption></figure>
+
+**Grow Power**
+* Speeds up weed growing cycles.
+
+**Produce Power**
+* Speeds up cocaine production cycles.
+
+**Carry Capacity**
+* Increases how much you can carry, enabling higher-volume moves.
+
+### Quick strategy examples
+
+* **Trader run:** Carry Capacity + Bust Protection
+* **Aggressive raider:** Raid Power + Raid Protection
+* **Producer grind:** Grow Power + Produce Power
+
+<figure><img src=".gitbook/assets/upgrades-raid.jpg" alt="Using upgrades for raid strategies" width="375"><figcaption><p>Upgrades used to set up raids</p></figcaption></figure>
 
 
 
-Trophies: Long-Term Progression and Status
+## Trophies: Long-Term Progression and Status
 
 While upgrades offer short-term advantages, **Trophies** represent a player's long-term achievements, reputation, and mastery within the DopeRaider world.
 
