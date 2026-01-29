@@ -33,7 +33,7 @@ Upgrades are **temporary boosts** that help you specialize your playstyle (produ
 **Bust Protection**
 * Helps protect you from losing dope during travel busts.
 
-<figure><img src=".gitbook/assets/bust-protection.jpg" alt="Bust-related protection" width="300"><figcaption><p>Bust protection helps reduce travel risk</p></figcaption></figure>
+<figure><img src=".gitbook/assets/bust-protection.jpg" alt="Bust-related protection" width="350"><figcaption><p>Bust protection helps reduce travel risk</p></figcaption></figure>
 
 **Grow Power**
 * Speeds up weed growing cycles.
