@@ -2,11 +2,23 @@
 icon: plane
 ---
 
-# Airdrops
+# Missions & Airdrops
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-01 092537.png" alt="" width="248"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/missions.jpg" alt="Missions screen" width="375"><figcaption><p>Missions screen</p></figcaption></figure>
 
-Airdrops are a key part of DopeRaider’s reward system, designed to give early supporters and active players a head start and ongoing advantages. From pre-launch incentives to major in-game events, airdrops provide valuable resources that fuel production, trade, and raiding.
+## Missions
+
+Missions are in-game objectives that guide your daily and seasonal progression.
+
+* **Daily missions** reset regularly and reward **Respect**.
+* **Season missions** track longer-term progress during a season.
+* Some missions are tied to the **Season Pass**.
+
+Missions are a strong way to steadily earn Respect while learning the core loops (produce, trade, raid).
+
+## Airdrops
+
+Airdrops are part of DopeRaider’s reward system, designed to give early supporters and active players a head start and ongoing advantages. From pre-launch incentives to major in-game events, airdrops provide valuable resources that fuel production, trade, and raiding.
 
 #### Pre-Launch Airdrops
 

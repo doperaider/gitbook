@@ -9,5 +9,5 @@
 * [Raiding](editor.md)
 * [Bosses](images-and-media.md)
 * [Upgrades and Trophies](markdown.md)
-* [Airdrops](interactive-blocks.md)
+* [Missions & Airdrops](interactive-blocks.md)
 * [Privacy Policy](privacy-policy.md)
