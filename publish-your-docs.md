@@ -8,18 +8,16 @@ icon: earth-africa
 
 The DopeRaider economy is a fully player-driven, decentralized system where production, trade, and raiding intertwine to create dynamic, real-time market conditions.
 
-#### DINERO (in-game currency)
+#### USDC (in-game currency)
 
-**DINERO** is DopeRaider’s in-game currency. It is designed to be **strictly backed 1:1 by USDC** (deposit USDC → receive DINERO, withdraw DINERO → receive USDC).
+**USDC** is DopeRaider’s in-game currency. Players use USDC to travel, buy product, produce dope, purchase upgrades, and raid other players.
 
-**How to get DINERO**
+**How to get USDC**
 
-* **Deposit USDC** in the game to mint DINERO 1:1.
-* **Earn it through gameplay** (production/trading/raiding payouts are denominated in the game currency).
+* **Connect a wallet with USDC** to fund gameplay.
+* **Earn more USDC through gameplay** by producing, trading, raiding, and collecting eligible referral rewards.
 
-<figure><img src=".gitbook/assets/dinero-deposit.jpg" alt="Deposit USDC to receive DINERO" width="375"><figcaption><p>Deposit USDC to receive DINERO</p></figcaption></figure>
-
-This makes the economy high-stakes: gains and losses are real, and player decisions directly impact outcomes.
+This makes the economy high-stakes: gains and losses are real, and player decisions directly impact outcomes. If you finish with more USDC than you started with, you have made real in-game profit with real-world value.
 
 #### Risk, Reward, and Player Control
 
