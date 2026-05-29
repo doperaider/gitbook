@@ -8,7 +8,7 @@ icon: face-smile-horns
 
 **Producer**
 
-Producers grow weed and process cocaine to generate product. Success depends on managing time, resources, and upgrades to maximize yield. Producers supply the markets, influencing prices and driving the economy.
+Producers grow weed and mine DIRT to generate product. Success depends on managing time, resources, and upgrades to maximize yield. Producers supply the markets, influencing prices and driving the economy.
 
 **Trader**
 

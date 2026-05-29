@@ -38,8 +38,8 @@ Upgrades are **temporary boosts** that help you specialize your playstyle (produ
 **Grow Power**
 * Speeds up weed growing cycles.
 
-**Produce Power**
-* Speeds up cocaine production cycles.
+**Mining Power**
+* Speeds up DIRT mining cycles.
 
 **Carry Capacity**
 * Increases how much you can carry, enabling higher-volume moves.
@@ -48,7 +48,7 @@ Upgrades are **temporary boosts** that help you specialize your playstyle (produ
 
 * **Trader run:** Carry Capacity + Bust Protection
 * **Aggressive raider:** Raid Power + Raid Protection
-* **Producer grind:** Grow Power + Produce Power
+* **Producer grind:** Grow Power + Mining Power
 
 <figure><img src=".gitbook/assets/upgrades-raid.jpg" alt="Using upgrades for raid strategies" width="375"><figcaption><p>Upgrades used to set up raids</p></figcaption></figure>
 

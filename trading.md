@@ -8,7 +8,7 @@ icon: chart-line-up
 
 <figure><img src=".gitbook/assets/Screenshot 2025-06-26 224049.png" alt=""><figcaption></figcaption></figure>
 
-The economy is structured around **7 District Markets**, each with its own fluctuating prices for weed and cocaine. These prices rise and fall based entirely on player-driven supply and demand.
+The economy is structured around **7 District Markets**, each with its own fluctuating prices for weed and DIRT. These prices rise and fall based entirely on player-driven supply and demand.
 
 **Key Economic Drivers**:
 
@@ -39,14 +39,14 @@ For a premium fee, players can use **Fast Travel** to instantly travel to **any 
 Traveling between districts carries risk in DopeRaider.
 
 * **Bust chance:** **5%**
-* **Bust loss:** **50%** of your weed and coke (if you have enough to confiscate)
+* **Bust loss:** **50%** of your weed and DIRT (if you have enough to confiscate)
 
 This adds strategic tension to travel, encouraging players to plan routes and consider **Bust Protection** upgrades.
 
 #### Busting mechanics
 
-* If a bust happens, the game attempts to confiscate **half** your weed and **half** your coke.
-* If the amount to be confiscated is **less than 2** for *both* weed and coke, nothing is confiscated.
+* If a bust happens, the game attempts to confiscate **half** your weed and **half** your DIRT.
+* If the amount to be confiscated is **less than 2** for *both* weed and DIRT, nothing is confiscated.
 * When a bust confiscates dope:
   * Your confiscated amounts reduce district supply (deflationary pressure).
   * **Half** of the confiscated dope is transferred to the **Confiscated Dope** address (LockUp/impound mechanics).

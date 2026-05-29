@@ -25,7 +25,7 @@ Airdrops are part of DopeRaider’s reward system, designed to give early suppor
 Players who participate in early testing or community activities may receive airdrops of essential in-game items such as:
 
 * **Seeds** for weed cultivation
-* **Chemicals** for cocaine production
+* **EXPLOITS** for DIRT mining
 * **DR coins** for unlocking restricted in-game features
 
 These resources give early players the tools they need to produce, trade, and raid effectively when the full economy goes live.

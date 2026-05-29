@@ -67,7 +67,7 @@ While raiding offers lucrative rewards, it carries inherent risks:
 * Repeated aggression may draw attention from other raiders or coordinated retaliation.
 * Over-reliance on raiding without balancing production and trade limits long-term economic growth.
 * If a player wins a raid but receives no product, it's likely because their **carry capacity is full,** players must have available space to collect stolen goods.
-* Players must hold at least **2 weed** and **2 cocaine** in order to initiate a raid.
+* Players must hold at least **2 weed** and **2 GB of DIRT** in order to initiate a raid.
 * This requirement ensures that only active participants with resources at stake can raid, maintaining fairness and balance within the economy.
 
 Only players who combine tactical aggression with broader economic strategy will thrive in the dangerous world of DopeRaider.
@@ -78,7 +78,7 @@ The LockUp
 
 <figure><img src=".gitbook/assets/lockup.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-The LockUp is a police vault at Vice Island where 50% of all dope (coke and weed) confiscated during busts are stored. This means the LockUp continuously grows as players are busted on their travels.
+The LockUp is a police vault at Vice Island where 50% of all confiscated weed and DIRT are stored. This means the LockUp continuously grows as players are busted on their travels.
 
 The "jackpot" can be won by successfully raiding the LockUp, although it's not easy.
 
@@ -87,7 +87,7 @@ Raiding the LockUp:
 When a player chooses to raid the lockup, there will be a 1:30 chance of success.\
 When a player wins, they see the vault opening video, are notified by message and automatically receive their rewards.
 
-A player can win up to 50% of of the dope (coke and weed) stored in the LockUp even if it exceeds their current carry capacity.
+A player can win up to 50% of the weed and DIRT stored in the LockUp even if it exceeds their current carry capacity.
 
 The player must sell off their excess dope before being able to buy supplies or dope on district markets.
 
@@ -102,8 +102,6 @@ Raiding is not just about short-term profit  it is a pathway to dominance:
 * Coordinated raiding, especially as part of future **cartel** systems, enables players to disrupt markets, control product flow, and shape the in-game economy.
 
 In DopeRaider, the strongest players are not just producers or traders  they are those who master all elements, with raiding as their sharpest weapon.
-
-
 
 
 
