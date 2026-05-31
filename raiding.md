@@ -27,7 +27,7 @@ If you win but your inventory is full, you may not be able to collect all stolen
 
 ## Raid Requirements
 
-The game uses minimum holdings to keep raids meaningful. A DIRT raid requires the player to hold at least 2 GB of DIRT, parallel to the existing 2-unit product rule.
+The DIRT spec uses minimum holdings to keep raids meaningful: a DIRT raid requires the player to hold at least 2 GB of DIRT, parallel to the existing 2-unit product rule.
 
 Raid targets can be protected by:
 
@@ -69,7 +69,7 @@ The DIRT-side mirror of the LockUp is The Archive: a vault of seized data. The A
 * busted DIRT feeds a data vault
 * raiders can attempt a jackpot
 * a jackpot can overfill normal drive capacity
-* temporary Encryption and Firewall protection can shield the winner after a big score
+* temporary Encryption and Firewall protection can shield the winner after a big score when that DIRT-side vault layer is active
 
 Whether the LockUp and Archive are presented as one combined vault or two separate vaults can evolve by season, but the player-facing fantasy is clear: seized value does not disappear. It waits for someone reckless enough to hit the vault.
 

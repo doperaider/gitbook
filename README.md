@@ -8,7 +8,7 @@ coverY: 78
 
 <figure><img src=".gitbook/assets/doperaider-logo-text.svg" alt="DopeRaider" width="260"><figcaption></figcaption></figure>
 
-DopeRaider is a realtime on-chain multiplayer RPG about building an empire under pressure. Players grow WEED, mine DIRT, move product across seven districts, raid rivals, earn Respect, and fight for control of the street economy.
+DopeRaider is a real-time on-chain multiplayer RPG about building an empire under pressure. Players grow WEED, mine DIRT, move product across seven districts, raid rivals, earn Respect, and fight for control of the street economy.
 
 This is not a passive idle game. Every district has its own prices, bosses, risks, routes, and opportunities. You are managing working capital, inventory, time, protection, and reputation while other players are doing the same thing.
 

@@ -30,7 +30,7 @@ WEED: SEEDS    -> GROWING -> WEED
 DIRT: EXPLOITS -> MINING  -> DIRT
 ```
 
-EXPLOITS are the consumable input for DIRT. They represent zero-days, leaked credentials, black-market scripts, phishing kits, and other fictional attack packages. Players burn EXPLOITS to start a MINING cycle and receive DIRT measured in GB.
+EXPLOITS are the consumable input for DIRT. They represent fictional black-market access packages, compromised systems, leaked access, and other abstract digital openings. Players burn EXPLOITS to start a MINING cycle and receive DIRT measured in GB.
 
 <figure><img src=".gitbook/assets/exploits-icon.svg" alt="EXPLOITS icon" width="140"><figcaption><p>EXPLOITS fuel DIRT mining.</p></figcaption></figure>
 
