@@ -1,3 +1,3 @@
-# Getting Started
+# Start Here
 
-DopeRaider will be available soon on the SOLANA network and further details will be provided.
+The current getting started guide lives at [Start Here](../getting-started.md).

@@ -4,28 +4,68 @@ icon: face-smile-horns
 
 # Player Roles
 
-<figure><img src=".gitbook/assets/jamaica_character.png" alt="" width="188"><figcaption></figcaption></figure>
+DopeRaider does not lock you into a class. Your role is what your choices say about you.
 
-**Producer**
+<figure><img src=".gitbook/assets/operator-smoking.png" alt="DopeRaider operator" width="520"><figcaption><p>The street rewards players who can switch roles when the market changes.</p></figcaption></figure>
 
-Producers grow weed and mine DIRT to generate product. Success depends on managing time, resources, and upgrades to maximize yield. Producers supply the markets, influencing prices and driving the economy.
+## Producer
 
-**Trader**
+Producers create supply. They buy SEEDS and EXPLOITS, then convert them into WEED and DIRT through timed production jobs.
 
-Traders buy and sell product across the seven districts, exploiting price fluctuations created by player activity. Smart traders monitor market conditions, optimize travel routes, and build wealth by timing their moves.
+Good producers watch:
 
-**Raider**
+* input costs in each district
+* active production timers
+* remaining carry capacity
+* Grow Power and Mining Power windows
+* whether their home district is safe enough to operate from
 
-Raiders target other players for profit. By ambushing rivals, they can seize product and currency, disrupting supply chains. Raiding carries risk successful players balance aggression with protection.
+Producer mindset: control the source before the market gets hungry.
 
+## Trader
 
+Traders move product. They read district prices, buy low, travel, and sell where demand pays better.
 
-Combining All Three
+Good traders watch:
 
-The most successful players master all three roles:
+* buy price versus sell price
+* travel costs
+* bust risk
+* raid exposure while carrying
+* which districts are connected by normal travel
+* when Fast Travel is worth the fee
 
-* Produce efficiently to control supply.
-* Trade strategically for maximum profit.
-* Raid opportunistically to weaken competitors and boost income.
+Trader mindset: margin is the game, but margin dies when you ignore risk.
 
-Mastery of production, trading, and raiding enables players to dominate the DopeRaider economy.
+## Raider
+
+Raiders hunt. They target players in the same district, pick a weapon strategy, and try to take product, USDC stake, and Respect.
+
+Good raiders watch:
+
+* target inventory
+* target protection
+* weapon matchups
+* Raid Tie Breaker tiers
+* their own carry capacity
+* retaliation risk
+
+Raider mindset: the best hit is the one your target thought was impossible.
+
+## Boss
+
+Bosses are district-level power. The player with the highest Respect in a home district can become that district's boss and collect boss tax on market activity there.
+
+Boss mindset: Respect is not just status. It can become revenue.
+
+## Hybrid Play
+
+The strongest players combine roles:
+
+* produce cheap inventory at home
+* trade into stronger markets
+* raid when rivals expose themselves
+* use upgrades to create timed advantage windows
+* build Respect to compete for boss status
+
+Pure specialists can win short bursts. Hybrid players survive longer.

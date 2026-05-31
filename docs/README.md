@@ -1,3 +1,5 @@
-# DopeRaider
+# DopeRaider GitBook Source
 
-This repo is the Git sync source for the DopeRaider GitBook.
+The published player documentation starts at [DopeRaider](../README.md).
+
+Use the top-level markdown files and `SUMMARY.md` as the source of truth for the current GitBook structure.

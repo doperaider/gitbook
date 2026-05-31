@@ -2,60 +2,79 @@
 icon: chart-line-up
 ---
 
-# Trading
+# Markets and Trading
 
-#### Markets & Price Dynamics
+Trading is the cleanest expression of the DopeRaider economy: buy where supply is cheap, move through danger, and sell where demand pays.
 
-<figure><img src=".gitbook/assets/Screenshot 2025-06-26 224049.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/screen-market-desktop.jpg" alt="DopeRaider market and inventory" width="720"><figcaption><p>Market prices, inventory, and district context drive every trade.</p></figcaption></figure>
 
-The economy is structured around **7 District Markets**, each with its own fluctuating prices for weed and DIRT. These prices rise and fall based entirely on player-driven supply and demand.
+## What Markets Sell
 
-**Key Economic Drivers**:
+District markets can sell:
 
-* **Production** affects supply levels within districts.
-* **Trading** moves product between districts, creating or exploiting price gaps.
-* **Travel** influences how quickly and where product circulates.
-* **Raiding** disrupts supply chains, reduces available product, and triggers price volatility.
+* WEED
+* DIRT
+* SEEDS
+* EXPLOITS
 
-Smart players monitor markets in real-time, identifying opportunities to:
+SEEDS and EXPLOITS are inputs. WEED and DIRT are finished product.
 
-* Buy low, sell high across districts.
-* Control product supply and manipulate scarcity.
-* Exploit inefficiencies created by other players’ activities or missteps.
+## Buy Low, Sell High
 
-#### Travel
+The simple version is easy:
 
-Players normally travel between **adjacent districts**. Travel has a small chance of a law-enforcement bust.
+```text
+profit = sell value - buy cost - input cost - production fee - travel cost - losses
+```
 
-For a premium fee, players can use **Fast Travel** to instantly travel to **any district** (no adjacency requirement). Fast Travel still avoids travel time, but it does **not** remove the risk mechanics described below.
+The hard version is reading the risks before someone else does.
 
-**Fees (current test values):**
+## Market Forces
 
-* Normal Travel: **$0.10**
-* Fast Travel: **$0.50**
+Prices are shaped by:
 
-#### Travel risks (busts)
+* district supply
+* local pool value
+* player buying
+* player selling
+* production output
+* raids
+* busts and confiscation
+* boss tax
 
-Traveling between districts carries risk in DopeRaider.
+If a district has too much product, prices can soften. If product gets removed through selling pressure, raids, or busts, scarcity can create opportunity.
 
-* **Bust chance:** **5%**
-* **Bust loss:** **50%** of your weed and DIRT (if you have enough to confiscate)
+## Selling Rules
 
-This adds strategic tension to travel, encouraging players to plan routes and consider **Bust Protection** upgrades.
+Selling is a route game. You cannot simply produce at home and dump everything in the same place. Selling outside your home district pushes players onto the map, where travel risk and raiding matter.
 
-#### Busting mechanics
+## Product Units
 
-* If a bust happens, the game attempts to confiscate **half** your weed and **half** your DIRT.
-* If the amount to be confiscated is **less than 2** for *both* weed and DIRT, nothing is confiscated.
-* When a bust confiscates dope:
-  * Your confiscated amounts reduce district supply (deflationary pressure).
-  * **Half** of the confiscated dope is transferred to the **Confiscated Dope** address (LockUp/impound mechanics).
-* Busts also contribute to progression: players earn **2 Respect** each time they are busted.
+| Product | Display |
+| --- | --- |
+| WEED | units |
+| DIRT | GB, with high-tier lore using TB |
 
-#### A Self-Sustaining System
+In player-facing inventory, DIRT is primarily shown in GB for consistency.
 
-The DopeRaider economy is designed to be self-sustaining. Once this player base is established:
+## Trader Strategy
 
-* Market fluctuations, competition, and player-driven events maintain economic balance.
-* No continuous influx of new players is needed to keep the economy functioning.
-* Skilled players who combine production, trading, and raiding dominate the market.
+Smart traders:
+
+* compare district prices before buying
+* calculate total route cost, not just market spread
+* keep capacity open for unexpected gains
+* use Bust Protection on heavy moves
+* avoid carrying high-value product through obvious raid zones
+* sell before protection expires
+
+## Common Mistakes
+
+* buying because a price looks cheap without checking sell exits
+* spending all USDC and leaving no travel budget
+* filling capacity before collecting production
+* ignoring boss tax
+* traveling with too much product and no protection
+* chasing a price after the market has already moved
+
+The best traders move before the obvious route becomes crowded.

@@ -1,28 +1,72 @@
 ---
 icon: user-helmet-safety
+cover: .gitbook/assets/production-landscape.png
+coverY: 58
 ---
 
 # Production
 
-#### Production: The Foundation of the Economy
+Production is how raw inputs become inventory. Without producers, traders have nothing to move and raiders have nothing worth stealing.
 
-All economic activity begins with **Production**. Players cultivate weed and mine DIRT, transforming raw materials into valuable product ready for trade or transport.
+<figure><img src=".gitbook/assets/screen-production-desktop.jpg" alt="DopeRaider production screen" width="720"><figcaption><p>Grow WEED. Mine DIRT. Watch capacity before starting either job.</p></figcaption></figure>
 
-* **Weed** is grown using seeds and time, providing steady, accessible income.
-* **DIRT** is mined from EXPLOITS, producing stolen data measured in GB.
-* **EXPLOITS** are the consumable input for DIRT mining, just as seeds fuel weed growing.
-* Efficient producers strategically manage production cycles, upgrade their operations, and protect their product from raiders to maximize output.
+## Production Chains
 
+```text
+WEED: SEEDS    -> GROWING -> WEED
+DIRT: EXPLOITS -> MINING  -> DIRT
+```
 
+| Product | Input | Verb | Output |
+| --- | --- | --- | --- |
+| WEED | SEEDS | Grow | WEED |
+| DIRT | EXPLOITS | Mine | DIRT measured in GB |
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-01 093444.png" alt="" width="249"><figcaption></figcaption></figure>
+SEEDS and EXPLOITS are bought from district markets. They are consumed when a production job starts.
 
-Upgrades play a key role in production efficiency:
+## Home District Rule
 
-* **Grow Power** and **Mining Power** upgrades accelerate production times.
-* **Capacity Upgrades** increase the amount players can carry, enabling higher volume trades.
-* All upgrades are temporary (4, 8, or 24 hours), requiring careful timing and strategic planning.
+Production is a home operation. You grow and mine from your home district. If you are away from home, you need to return before starting or collecting production.
 
-#### Q: Does production affect my carry capacity?
+This creates route pressure: profitable traders eventually have to decide when to go home, restock, and expose themselves on the move.
 
-Yes. When you are growing weed or mining DIRT, the expected yield is immediately counted against your carry capacity. For example, if you're producing 10 weed or mining 10 GB of DIRT, that space is reserved in your carry until you complete the harvest or mining cycle. This means you must manage your production carefully, as it can limit how much additional product or resources you can transport or hold during that time.
+## Timers and Collection
+
+Production jobs are timed. When the timer finishes:
+
+* WEED jobs are harvested
+* DIRT jobs are collected from mining
+
+Until collection, the job is not fully available as inventory, but the expected yield still matters for capacity.
+
+## Capacity Reservation
+
+Production yield reserves carry capacity as soon as the job starts.
+
+Example: if you mine 10 GB of DIRT, that expected 10 GB counts against your capacity while the mining job is active. You cannot ignore unfinished jobs and overpack the rest of your inventory.
+
+This rule stops players from using production as hidden storage and makes timing part of the strategy.
+
+## Grow Power and Mining Power
+
+Upgrades can speed production and increase yield:
+
+| Upgrade | Product Side | Effect |
+| --- | --- | --- |
+| Grow Power | WEED | Faster grow cycles and stronger yield. |
+| Mining Power | DIRT | Faster mining cycles and stronger yield. |
+
+Use these upgrades when you can actually complete and monetize the extra output. Buying power without route planning can trap value in your inventory.
+
+## Producer Strategy
+
+Good producers:
+
+* buy cheap inputs
+* avoid starting jobs that exceed capacity
+* time upgrades before production, not after
+* protect the collection window
+* sell into districts where demand is higher
+* keep enough USDC for travel and defensive upgrades
+
+Production creates value, but selling realizes it.
