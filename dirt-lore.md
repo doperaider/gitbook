@@ -1,7 +1,6 @@
 ---
 icon: skull
-cover: .gitbook/assets/profile-landscape.png
-coverY: 46
+cover: .gitbook/assets/cover-dirt-lore.jpg
 ---
 
 # DIRT Lore

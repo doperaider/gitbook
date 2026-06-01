@@ -19,6 +19,30 @@ District markets can sell:
 
 SEEDS and EXPLOITS are inputs. WEED and DIRT are finished product.
 
+## Arbitrage: Route the Spread
+
+Arbitrage is the trader's core edge. Every district can price WEED, DIRT, SEEDS, and EXPLOITS differently. If one district lets you buy low and another district lets you sell high, the gap becomes a route opportunity.
+
+<figure><img src=".gitbook/assets/arbitrage-market-route.jpg" alt="DopeRaider market and route screens" width="720"><figcaption><p>Arbitrage starts on the market screen, then becomes a travel decision.</p></figcaption></figure>
+
+The basic read is:
+
+```text
+expected profit = destination sell value - origin buy cost - travel cost - fees - expected losses
+```
+
+The spread is only real after costs. A DIRT price gap can look profitable until you add travel, boss tax, bust exposure, raid risk, and the time it takes to reach the exit market. A smaller spread on a safer route can beat a bigger spread through a hot district.
+
+Good arbitrage players:
+
+* check DIRT and WEED buy/sell prices before moving
+* keep enough USDC for travel after buying inventory
+* use Bust Protection when the carried value justifies it
+* avoid filling capacity so tightly that raid or jackpot rewards are wasted
+* sell before the market moves or other players crowd the same route
+
+Timing matters. If you buy before demand spikes, move while protection is active, and sell before supply floods the destination, the same inventory can turn into profit. If you wait too long, the spread can disappear while you are still on the road.
+
 ## Buy Low, Sell High
 
 The simple version is easy:

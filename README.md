@@ -1,12 +1,11 @@
 ---
 icon: cannabis
-cover: .gitbook/assets/hero-bg.png
-coverY: 78
+cover: .gitbook/assets/cover-home.jpg
 ---
 
 # DopeRaider
 
-<figure><img src=".gitbook/assets/doperaider-logo-text.svg" alt="DopeRaider" width="260"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/doperaider-logo.png" alt="DopeRaider logo" width="260"><figcaption></figcaption></figure>
 
 DopeRaider is a real-time on-chain multiplayer RPG about building an empire under pressure. Players grow WEED, mine DIRT, move product across seven districts, raid rivals, earn Respect, and fight for control of the street economy.
 

@@ -1,14 +1,13 @@
 ---
 icon: user-helmet-safety
-cover: .gitbook/assets/production-landscape.png
-coverY: 58
+cover: .gitbook/assets/cover-production.jpg
 ---
 
 # Production
 
 Production is how raw inputs become inventory. Without producers, traders have nothing to move and raiders have nothing worth stealing.
 
-<figure><img src=".gitbook/assets/screen-production-desktop.jpg" alt="DopeRaider production screen" width="720"><figcaption><p>Grow WEED. Mine DIRT. Watch capacity before starting either job.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/screen-production-desktop.jpg" alt="DopeRaider production screen with WEED and DIRT" width="720"><figcaption><p>Grow WEED. Mine DIRT. Watch capacity before starting either job.</p></figcaption></figure>
 
 ## Production Chains
 
