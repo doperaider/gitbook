@@ -77,7 +77,7 @@ Selling is a route game. You cannot simply produce at home and dump everything i
 | Product | Display |
 | --- | --- |
 | WEED | units |
-| DIRT | GB, with high-tier lore using TB |
+| DIRT | GB |
 
 In player-facing inventory, DIRT is primarily shown in GB for consistency.
 

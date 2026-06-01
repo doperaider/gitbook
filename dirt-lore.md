@@ -17,7 +17,7 @@ In fiction, DIRT is stolen private data: leaked credentials, intercepted message
 | Organic | Digital |
 | Street dealer | Hacker operator |
 | Grow room | Server room |
-| Bags | Drives |
+| Bags | Dossiers |
 | Green | Red |
 
 Same empire. Two fronts.
@@ -35,19 +35,11 @@ EXPLOITS are the consumable input for DIRT. They represent fictional black-marke
 
 <figure><img src=".gitbook/assets/dirt-skull-icon.svg" alt="DIRT icon" width="140"><figcaption><p>DIRT is data with a price on it.</p></figcaption></figure>
 
-## Drives
+## What DIRT Represents
 
-DIRT moves on drives. The DIRT lore maps carry capacity to physical storage:
+DIRT is compromat, also known as kompromat: compromising and blackmail material that is valuable because it can damage reputations, expose secrets, or shift power between crews. It can be leaked messages, private records, surveillance pulls, identity bundles, internal files, compromising media, or any other dangerous information abstracted into a tradeable in-game commodity.
 
-| Tier | Hardware | Capacity | Role |
-| --- | --- | --- | --- |
-| 01 | Burner USB | 32 GB | Cheap, disposable, street-level |
-| 02 | Encrypted USB | 128 GB | Secured and practical |
-| 03 | Portable SSD | 1 TB | Professional-grade storage |
-| 04 | Hardened SSD | 4 TB | Shock-proof, high-value transport |
-| 05 | Black Briefcase | 16 TB | Jackpot-tier prestige |
-
-In the current game model, drive tiers are represented by carry-capacity upgrades. Future seasons can make these tiers more explicit through art, drops, and Archive rewards.
+The current contracts and game UI do not implement separate DIRT hardware tiers or capacity classes. DIRT is displayed in GB as a game unit. Carry-capacity upgrades affect how much total inventory a player can move, but they are not a DIRT-specific storage system.
 
 ## The Archive
 
@@ -69,11 +61,10 @@ Use these words freely:
 * DIRT
 * EXPLOITS
 * MINING
-* DRIVES
 * THE ARCHIVE
 * ENCRYPTION
 * FIREWALL
 * MINING POWER
-* GB and TB
+* GB
 
 Avoid real hacking instructions, real victims, real CVEs, or anything that reads like a guide to attack real systems. DIRT is game fiction and economic texture.

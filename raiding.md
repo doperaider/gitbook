@@ -1,7 +1,6 @@
 ---
 icon: bullseye
-cover: .gitbook/assets/screen-raid-mobile.jpg
-coverY: 31
+cover: .gitbook/assets/cover-raiding-lockup.jpg
 ---
 
 # Raiding and the LockUp
@@ -68,7 +67,7 @@ The DIRT-side mirror of the LockUp is The Archive: a vault of seized data. The A
 
 * busted DIRT feeds a data vault
 * raiders can attempt a jackpot
-* a jackpot can overfill normal drive capacity
+* a jackpot can overfill normal carry capacity
 * temporary Encryption and Firewall protection can shield the winner after a big score when that DIRT-side vault layer is active
 
 Whether the LockUp and Archive are presented as one combined vault or two separate vaults can evolve by season, but the player-facing fantasy is clear: seized value does not disappear. It waits for someone reckless enough to hit the vault.

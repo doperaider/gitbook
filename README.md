@@ -34,7 +34,7 @@ WEED is organic, street-level supply. DIRT is digital contraband: stolen data, l
 | Product | Input | Production Verb | Unit | Style |
 | --- | --- | --- | --- | --- |
 | WEED | SEEDS | GROWING | units | grow rooms, bags, street supply |
-| DIRT | EXPLOITS | MINING | GB | drives, servers, breaches, black briefcases |
+| DIRT | EXPLOITS | MINING | GB | leaks, dossiers, breaches, kompromat |
 
 DIRT is designed as a mirror of WEED mechanically. Carry capacity, prices, production time, trading, raids, busts, upgrades, and jackpot mechanics all follow the same risk-to-reward logic, but DIRT brings a hacker-side aesthetic and new lore surface.
 

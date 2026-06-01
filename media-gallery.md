@@ -39,7 +39,7 @@ DopeRaider cinematic trailer
 | Element | Direction |
 | --- | --- |
 | WEED | green, organic, grow-room supply |
-| DIRT | red, skull, exploit, drive, data-vault energy |
+| DIRT | red, skull, exploit, dossier, data-vault energy |
 | Respect | blue/purple status cards, rank pressure |
 | Districts | cinematic city identity, danger, arrival clips |
 | UI | high contrast, hard shadows, condensed type, Bangers-style headlines |

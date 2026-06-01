@@ -28,7 +28,7 @@ The DIRT lore gives several upgrades a cyber-facing skin:
 | --- | --- |
 | Bust Protection | Encryption |
 | Raid Protection | Firewall |
-| Carry Power | Drive tiers |
+| Carry Power | Carry capacity |
 | Production Power | Mining Power |
 
 The underlying mechanics stay readable. The fantasy changes by product.
