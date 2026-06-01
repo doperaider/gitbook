@@ -1,6 +1,9 @@
 ---
 icon: cannabis
 cover: .gitbook/assets/cover-home.jpg
+layout:
+  title:
+    visible: false
 ---
 
 <figure><img src=".gitbook/assets/doperaider-logo.png" alt="DopeRaider logo" width="216"><figcaption></figcaption></figure>
