@@ -4,15 +4,15 @@
 
 THIS PRIVACY POLICY CONTAINS A BINDING ARBITRATION CLAUSE AND A WAIVER OF CLASS ACTIONS IN SECTION 18, WHICH MAY AFFECT YOUR LEGAL RIGHTS. BY USING OUR SERVICES, YOU AGREE TO RESOLVE ANY DISPUTES THROUGH INDIVIDUAL ARBITRATION RATHER THAN IN COURT. PLEASE READ SECTION 18 CAREFULLY. YOU MAY HAVE THE RIGHT TO OPT OUT OF ARBITRATION WITHIN 30 DAYS OF FIRST USE.
 
-1\)                Introduction. This Privacy Policy explains how Crossbar Holdings Inc., a Delaware corporation ("we," "us," or "our"), collects, uses, and protects your personal information when you use the DopeRaider Telegram-based game ("Service" or “DopeRaider”). This policy applies to all users worldwide and complies with applicable privacy laws including GDPR, CCPA, and other relevant regulations. By using DopeRaider, you agree to this Privacy Policy. We are committed to protecting your privacy while delivering an engaging Web3 gaming experience.
+1\)                Introduction. This Privacy Policy explains how Crossbar Holdings Inc., a Delaware corporation ("we," "us," or "our"), collects, uses, and protects your personal information when you use DopeRaider and its related websites, applications, and services (collectively, the "Service"). This policy applies to all users worldwide and complies with applicable privacy laws including GDPR, CCPA, and other relevant regulations. By using DopeRaider, you agree to this Privacy Policy. We are committed to protecting your privacy while delivering an engaging Web3 gaming experience.
 
 2\)                Information We Collect. To operate the DopeRaider game and deliver a seamless Web3 experience, we collect several types of personal information. This includes data you provide directly, information generated through your gameplay, and technical details collected automatically.
 
 a)    Identity and Account Information. When you interact with the game, we collect information that helps identify you and associate you with your in-game activity. This includes:
 
-·        Telegram username and Telegram ID
-
 ·        In-game username
+
+·        Account or player identifiers
 
 ·        Email address (if provided)
 
@@ -42,7 +42,7 @@ c)    Engagement and Marketing Information. We also collect information related 
 
 ·        Customer support tickets and feedback
 
-·        Referral source or platform through which you accessed the game (e.g., Telegram groups, affiliate links)
+·        Referral source or platform through which you accessed the Service (e.g., campaign links or affiliated communities)
 
 This helps us understand user interest, improve our communications, and promote relevant Crossbar products and updates.
 
@@ -126,7 +126,7 @@ b)    Business Partners. In some cases, we may share limited information with se
 
 ·        Blockchain infrastructure partners enabling wallet or token functionality
 
-·        Co-marketing partners or affiliated communities (e.g., guilds, Telegram groups)
+·        Co-marketing partners or affiliated communities (e.g., guilds or community channels)
 
 ·        Developers of integrated features or in-game experiences
 
@@ -136,7 +136,7 @@ c)    Legal Disclosures. In some cases, we may share limited information with se
 
 ·        Blockchain infrastructure partners enabling wallet or token functionality
 
-·        Co-marketing partners or affiliated communities (e.g., guilds, Telegram groups)
+·        Co-marketing partners or affiliated communities (e.g., guilds or community channels)
 
 ·        Developers of integrated features or in-game experiences
 
@@ -241,9 +241,9 @@ You can control cookies through your browser settings. We don't currently respon
 Crossbar Holdings Inc.\
 Privacy Officer\
 \
-Email: team@doperaidar.com<br>
+Email: team@doperaider.com<br>
 
-18\)   Dispute Resolution. This Privacy Policy and any disputes arising from or relating to your use of the Service shall be governed by the laws of the State of Delaware, without regard to its conflict of law principles. Before initiating any legal action, you agree to first attempt to resolve any dispute with us through good faith negotiation by contacting us at team@doperaidar.com. If we are unable to resolve the matter informally within 30 days, the dispute shall be resolved through binding arbitration as set forth below.
+18\)   Dispute Resolution. This Privacy Policy and any disputes arising from or relating to your use of the Service shall be governed by the laws of the State of Delaware, without regard to its conflict of law principles. Before initiating any legal action, you agree to first attempt to resolve any dispute with us through good faith negotiation by contacting us at team@doperaider.com. If we are unable to resolve the matter informally within 30 days, the dispute shall be resolved through binding arbitration as set forth below.
 
 a)    Binding Arbitration. Any dispute, claim, or controversy between you and Crossbar (including any affiliates, officers, or employees) arising out of or relating to this Privacy Policy or your use of the Service shall be resolved by final and binding arbitration administered by JAMS pursuant to its Streamlined Arbitration Rules & Procedures, except as otherwise provided herein. The arbitration will take place remotely with a seat in New York, New York, unless otherwise agreed in writing. The proceedings will be conducted in English.
 
@@ -253,4 +253,4 @@ c)    Exceptions. Notwithstanding the foregoing, either party may bring a claim 
 
 d)    Local Remedies. EU/EEA residents may also file complaints with their local data protection authority, and California residents may contact the California Attorney General’s office with concerns. These rights apply only to the extent required by local law and do not waive Crossbar’s rights to require arbitration under U.S. law for all other claims.
 
-e)    Arbitration Opt-Out. You may opt out of the arbitration and class action waiver provisions above by sending a written notice of your decision to opt out to team@doperaidar.com with the subject line "Arbitration Opt-Out" within 30 days of your first use of the Service. The opt-out request must include your full name, Telegram username, and a clear statement that you wish to opt out of arbitration. If you do not opt out within this period, you will be bound by the arbitration and class action waiver provisions of this Privacy Policy.
+e)    Arbitration Opt-Out. You may opt out of the arbitration and class action waiver provisions above by sending a written notice of your decision to opt out to team@doperaider.com with the subject line "Arbitration Opt-Out" within 30 days of your first use of the Service. The opt-out request must include your full name, account username if applicable, and a clear statement that you wish to opt out of arbitration. If you do not opt out within this period, you will be bound by the arbitration and class action waiver provisions of this Privacy Policy.
