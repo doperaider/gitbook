@@ -126,7 +126,7 @@ You may stop using the Service at any time. Sections that by their nature should
 
 These Terms are governed by the laws of the State of Delaware, without regard to conflict of law principles.
 
-Before initiating a formal claim, you agree to attempt to resolve any dispute through good faith negotiation by contacting us at support@doperaider.com. If the dispute is not resolved within 30 days, the dispute will be resolved by final and binding arbitration administered by JAMS under its Streamlined Arbitration Rules and Procedures, except as otherwise stated here. The arbitration will be conducted remotely with a seat in New York, New York, unless the parties agree otherwise in writing. The proceedings will be conducted in English.
+Before initiating a formal claim, you agree to attempt to resolve any dispute through good faith negotiation by contacting us at support@doperaider.com. If the dispute is not resolved within 30 days, it will be resolved by final and binding individual arbitration under the applicable streamlined arbitration rules, except as otherwise stated here. The arbitration will be conducted remotely with a seat in New York, New York, unless the parties agree otherwise in writing. The proceedings will be conducted in English.
 
 You and DopeRaider agree that claims must be brought on an individual basis only, and not as a plaintiff or class member in any class, consolidated, or representative action. The arbitrator may not consolidate claims of multiple users.
 

@@ -15,5 +15,5 @@
 * [Missions, Airdrops, and Referrals](missions-airdrops-referrals.md)
 * [Earning and Strategy](earning-and-strategy.md)
 * [Media Gallery](media-gallery.md)
-* [Terms of Use](terms-of-use.md)
+* [DopeRaider Terms of Service](terms-of-use.md)
 * [Privacy Policy](privacy-policy.md)
