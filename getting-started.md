@@ -10,6 +10,10 @@ You enter a live economy with USDC, product, districts, bosses, raids, and price
 
 <figure><img src=".gitbook/assets/screen-inventory-mobile.jpg" alt="DopeRaider mobile inventory" width="260"><figcaption><p>Your profile, inventory, upgrades, social, and missions live in one command center.</p></figcaption></figure>
 
+{% hint style="info" %}
+The current game includes a redesigned command center for desktop and responsive layouts. Read [The New Game UI](new-ui.md) before your first session for a map of the HUD, settings, notifications, profile rail, and navigation.
+{% endhint %}
+
 ## First Session Checklist
 
 1. Connect your wallet and create your player.

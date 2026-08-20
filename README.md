@@ -46,3 +46,12 @@ This GitBook is both field manual and world bible. It explains how to play, how 
 {% hint style="warning" %}
 DopeRaider is a risk-to-earn game. You can make profitable decisions, but you can also lose inventory, fees, time, and position. Nothing here is financial advice or a promise of profit.
 {% endhint %}
+
+## New in the Current Experience
+
+The latest experience adds a desktop command center and Cherry-powered game chat.
+
+Use these pages when you want the practical tour:
+
+* [The New Game UI](new-ui.md) explains the HUD, profile rail, navigation, settings, notifications, and responsive layout.
+* [Game Chat](chat.md) explains Cherry chat, wallet-bound access, collapsed mode, read-only fallback, and troubleshooting.
