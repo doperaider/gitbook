@@ -1,8 +1,8 @@
-# Terms of Use
+# DopeRaider Terms of Service
 
-Last updated: June 28, 2026
+Last updated: August 21, 2026
 
-These Terms of Use ("Terms") govern your access to and use of DopeRaider, including the website, game, mobile builds, Solana integrations, referral features, campaigns, documentation, and related services (collectively, the "Service"). The Service is operated by Crossbar Holdings Inc. ("Crossbar," "we," "us," or "our").
+These Terms of Service ("Terms") govern your access to and use of DopeRaider, including the website, game, mobile builds, Solana integrations, referral features, campaigns, documentation, and related services (collectively, the "Service"). DopeRaider may be referred to as "we," "us," or "our" in these Terms.
 
 By accessing or using the Service, connecting a wallet, signing a message, submitting a transaction, creating a profile, joining a campaign, or otherwise interacting with DopeRaider, you agree to these Terms. If you do not agree, do not use the Service.
 
@@ -32,7 +32,7 @@ DopeRaider may require you to connect a wallet, sign messages, approve transacti
 
 We will never ask for your seed phrase or private key. Do not share them with anyone. If you lose access to your wallet or approve a malicious or mistaken transaction, we may not be able to recover your assets, restore your account, or reverse the transaction.
 
-Third-party wallets, mobile wallet adapters, Seed Vault, Phantom, Solflare, Backpack, RPC providers, block explorers, app stores, and other integrations are provided by third parties. We are not responsible for third-party services, outages, policies, fees, security failures, or user experience.
+Third-party wallets, mobile wallet adapters, RPC providers, block explorers, app stores, and other integrations are provided by third parties. We are not responsible for third-party services, outages, policies, fees, security failures, or user experience.
 
 ## 5. Blockchain and transaction risks
 
@@ -42,15 +42,13 @@ You are responsible for all network fees, transaction fees, priority fees, taxes
 
 ## 6. Digital assets and rewards
 
-Game assets, test tokens, dummy USDC, in-game balances, campaign entries, referral mechanics, leaderboard positions, Seeker-related eligibility checks, SKR-related references, or other rewards may be experimental, limited, unavailable, changed, paused, cancelled, or subject to additional rules.
+Game assets, test tokens, dummy USDC, in-game balances, campaign entries, referral mechanics, leaderboard positions, or other rewards may be experimental, limited, unavailable, changed, paused, cancelled, or subject to additional rules.
 
 Unless a campaign states otherwise in writing, rewards are not guaranteed and may depend on eligibility, technical availability, fraud checks, geographic restrictions, app store rules, wallet status, token availability, third-party ecosystem decisions, and our discretion.
 
-References to SKR or Solana Mobile ecosystem incentives do not mean that SKR is issued, funded, guaranteed, or controlled by DopeRaider. Any ecosystem reward program may be subject to separate third-party rules.
-
 ## 7. No investment relationship
 
-Using DopeRaider does not create an investment contract, partnership, employment relationship, joint venture, fiduciary relationship, or agency relationship between you and Crossbar.
+Using DopeRaider does not create an investment contract, partnership, employment relationship, joint venture, fiduciary relationship, or agency relationship between you and DopeRaider.
 
 You should not use the Service with funds or assets you cannot afford to lose. You are responsible for your own due diligence and for complying with applicable tax obligations.
 
@@ -84,7 +82,7 @@ We do not guarantee that the Service will be uninterrupted, error-free, secure, 
 
 ## 11. Intellectual property
 
-The Service, including the DopeRaider name, logos, characters, art, game design, interfaces, text, software, documentation, and related content, is owned by Crossbar or its licensors and is protected by intellectual property laws.
+The Service, including the DopeRaider name, logos, characters, art, game design, interfaces, text, software, documentation, and related content, is owned by DopeRaider or its licensors and is protected by intellectual property laws.
 
 Subject to these Terms, we grant you a limited, revocable, non-exclusive, non-transferable license to access and use the Service for personal gameplay and community participation. You may not copy, modify, sell, sublicense, or commercially exploit the Service without our written permission.
 
@@ -108,7 +106,7 @@ WE DO NOT WARRANT THAT GAMEPLAY WILL BE PROFITABLE, THAT REWARDS WILL BE AVAILAB
 
 ## 15. Limitation of liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, CROSSBAR AND ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, CONTRACTORS, AGENTS, AND LICENSORS WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOST PROFITS, LOST REVENUE, LOST DATA, LOST ASSETS, LOST GOODWILL, LOST GAME PROGRESS, FAILED TRANSACTIONS, WALLET COMPROMISES, OR NETWORK FAILURES.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, DOPERAIDER AND ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, CONTRACTORS, AGENTS, AND LICENSORS WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOST PROFITS, LOST REVENUE, LOST DATA, LOST ASSETS, LOST GOODWILL, LOST GAME PROGRESS, FAILED TRANSACTIONS, WALLET COMPROMISES, OR NETWORK FAILURES.
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY FOR ANY CLAIM RELATING TO THE SERVICE WILL NOT EXCEED THE GREATER OF 100 U.S. DOLLARS OR THE AMOUNT YOU PAID DIRECTLY TO US FOR THE SERVICE DURING THE THREE MONTHS BEFORE THE CLAIM AROSE.
 
@@ -116,7 +114,7 @@ Some jurisdictions do not allow certain limitations, so some of the above may no
 
 ## 16. Indemnity
 
-You agree to defend, indemnify, and hold harmless Crossbar and its affiliates, officers, directors, employees, contractors, agents, and licensors from claims, damages, liabilities, losses, costs, and expenses, including reasonable attorneys' fees, arising from your use of the Service, your wallet activity, your content, your violation of these Terms, your violation of law, or your violation of another person's rights.
+You agree to defend, indemnify, and hold harmless DopeRaider and its affiliates, officers, directors, employees, contractors, agents, and licensors from claims, damages, liabilities, losses, costs, and expenses, including reasonable attorneys' fees, arising from your use of the Service, your wallet activity, your content, your violation of these Terms, your violation of law, or your violation of another person's rights.
 
 ## 17. Termination
 
@@ -130,7 +128,7 @@ These Terms are governed by the laws of the State of Delaware, without regard to
 
 Before initiating a formal claim, you agree to attempt to resolve any dispute through good faith negotiation by contacting us at support@doperaider.com. If the dispute is not resolved within 30 days, the dispute will be resolved by final and binding arbitration administered by JAMS under its Streamlined Arbitration Rules and Procedures, except as otherwise stated here. The arbitration will be conducted remotely with a seat in New York, New York, unless the parties agree otherwise in writing. The proceedings will be conducted in English.
 
-You and Crossbar agree that claims must be brought on an individual basis only, and not as a plaintiff or class member in any class, consolidated, or representative action. The arbitrator may not consolidate claims of multiple users.
+You and DopeRaider agree that claims must be brought on an individual basis only, and not as a plaintiff or class member in any class, consolidated, or representative action. The arbitrator may not consolidate claims of multiple users.
 
 Either party may bring an individual claim in small claims court if it qualifies. Either party may seek equitable relief in a court of competent jurisdiction to prevent unauthorized use, abuse, or infringement of intellectual property, confidential information, wallets, accounts, systems, or the Service.
 
@@ -144,5 +142,5 @@ We may update these Terms from time to time. Updated Terms will be posted here w
 
 For questions about these Terms, contact:
 
-Crossbar Holdings Inc.\
+DopeRaider\
 Email: support@doperaider.com
