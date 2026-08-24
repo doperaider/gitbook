@@ -6,4 +6,4 @@ icon: bullseye
 
 This page has moved to [Raiding and the LockUp](raiding.md).
 
-The updated page covers player raids, weapon matchups, Raid Tie Breaker, DIRT raid requirements, the LockUp, The Archive, and raid strategy.
+The current page covers player-raid eligibility, weapon outcomes, Raid Tie Power, Respect, stake recovery, and LockUp odds.
