@@ -13,6 +13,7 @@
 * [Raiding and the LockUp](raiding.md)
 * [Upgrades and Trophies](upgrades-and-trophies.md)
 * [Missions, Airdrops, and Referrals](missions-airdrops-referrals.md)
+* [Share & Earn](share-and-earn.md)
 * [Earning and Strategy](earning-and-strategy.md)
 * [Media Gallery](media-gallery.md)
 * [DopeRaider Terms of Service](terms-of-use.md)

@@ -45,16 +45,9 @@ Airdrops matter because they create liquidity and action. A player with fresh in
 
 ## Referrals
 
-Referrals reward players who bring active users into the economy.
+The referral program has its own guide: [Share & Earn](share-and-earn.md).
 
-The referral loop:
-
-1. Get your invite link from the Social / Referrals area.
-2. Share it with a new player.
-3. The referred player joins and plays.
-4. Eligible fee activity can generate referral earnings.
-
-Referral income depends on actual activity. Empty signups do not build an empire. Active crews do.
+Get your link from **Cartel Referrals**, share it with new players, and receive a 10% rebate on the turnover created by their activity. Players do not need to make a purchase to become your referral, and referral bonuses are sent to your connected wallet automatically.
 
 ## Community Strategy
 
