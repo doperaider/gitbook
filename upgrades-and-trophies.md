@@ -117,6 +117,10 @@ Safe House can be bought in **any district**. It makes you unavailable as a raid
 * Pick **Raid Tie Breaker** for a raid session, not as a substitute for choosing the correct weapon.
 * Check timer expiry before traveling or starting a job—the benefit is evaluated when the action happens.
 
+## Premium Upgrades
+
+Players who do not want to keep renewing timed upgrades can visit **Vice Island** for permanent, no-expiry options. See [Premium Upgrades](premium-upgrades.md) for the Private Collection.
+
 ## Trophies
 
 Trophies record long-term progression rather than timed advantages.

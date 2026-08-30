@@ -13,6 +13,7 @@
 * [Markets and Trading](trading.md)
 * [Raiding and the LockUp](raiding.md)
 * [Upgrades and Trophies](upgrades-and-trophies.md)
+* [Premium Upgrades](premium-upgrades.md)
 * [Missions, Airdrops, and Referrals](missions-airdrops-referrals.md)
 * [Share & Earn](share-and-earn.md)
 * [Earning and Strategy](earning-and-strategy.md)
