@@ -116,4 +116,5 @@ The interface can make information easier to see, but it does not remove game ri
 
 ## Related features
 
+* [Spin the Wheel](spin-the-wheel.md) for prize spins and avatar or home-district change unlocks.
 * [Game Chat](chat.md) for the embedded Cherry community channel.

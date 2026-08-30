@@ -3,6 +3,7 @@
 * [DopeRaider](README.md)
 * [Start Here](getting-started.md)
 * [The New Game UI](new-ui.md)
+* [Spin the Wheel](spin-the-wheel.md)
 * [Game Chat](chat.md)
 * [Player Roles](quickstart.md)
 * [DIRT Lore](dirt-lore.md)
