@@ -30,7 +30,7 @@ b)    Gameplay and Technical Information. As you use the Service, we collect dat
 
 ·        IP address, time zone, and session timestamps
 
-·        Approximate network location (country, region, and city area) derived from an authenticated session's IP address using a locally hosted MaxMind GeoLite2 geolocation database
+·        Approximate network location (country, region, and city area) derived from an authenticated session's IP address using a locally hosted IP-to-city database (currently [DB-IP City Lite](https://db-ip.com))
 
 ·        Error logs, diagnostic data, and crash reports
 
