@@ -66,7 +66,9 @@ Prices are shaped by:
 * busts and confiscation
 * boss tax
 
-If a district has too much product, prices can soften. If product gets removed through selling pressure, raids, or busts, scarcity can create opportunity.
+If a district has too much product relative to its pool, prices can soften. Travel, raid settlement, and busts can remove product from a district and create scarcity; a sale pays from the local pool while removing matching supply, so its exact price effect depends on the live balance. Read the refreshed quote instead of assuming that any one sale will move the market in a fixed direction.
+
+For the full supply-and-liquidity model, see [Economy](economy.md).
 
 ## Selling Rules
 
