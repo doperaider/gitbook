@@ -30,9 +30,13 @@ b)    Gameplay and Technical Information. As you use the Service, we collect dat
 
 ·        IP address, time zone, and session timestamps
 
+·        Approximate network location (country, region, and city area) derived from an authenticated session's IP address using a locally hosted MaxMind GeoLite2 geolocation database
+
 ·        Error logs, diagnostic data, and crash reports
 
 We use this information to monitor and enhance game functionality, ensure security, and develop new features tailored to user behavior.
+
+Approximate network location is not GPS data and is not intended to identify a home, address, or exact physical position. Internet providers, mobile carrier gateways, privacy relays, and VPNs may cause it to identify a network exit point instead. The source address is processed transiently for security, abuse limiting, and local geolocation. For player-linked location analytics, we do not persist or log the source IP address or an IP hash; we retain one approximate place observation per authenticated gameplay session and use provider-supplied area centroids only in privacy-suppressed aggregate maps.
 
 c)    Engagement and Marketing Information. We also collect information related to how you engage with our communications and campaigns. This may include:
 
@@ -81,6 +85,8 @@ b)    Game Improvement and Analytics. To better understand how players engage wi
 ·        Understand player preferences and behavior patterns
 
 ·        Conduct internal research and aggregate reporting
+
+·        Understand country- and region-level player coverage for capacity planning, localization, community operations, and service quality, with small location cohorts suppressed from maps and rankings
 
 We rely on our legitimate interest in improving the game and ensuring a high-quality user experience.
 
@@ -170,7 +176,9 @@ c)    Marketing and Engagement Data (e.g., campaign participation, preferences):
 
 d)    Technical Logs and Diagnostic Data: retained for up to 2 years, unless required longer for security, fraud prevention, or platform integrity.
 
-e)    Blockchain Data: recorded permanently on public decentralized networks and cannot be deleted or altered by us due to the immutable nature of blockchain technology.
+e)    Player-Linked Approximate Session Location: used in player-linked analytics for 90 days, after which it is excluded from active reporting and queued for deletion by recurring cleanup. Physical deletion normally follows during the next hourly cleanup, although an operational interruption may delay that process; temporary copies may remain in backups or recovery systems until ordinary rotation, where applicable. The current dashboard calculates geographic reporting only from still-active observations and suppresses small cohorts. Historical locations are not reconstructed where no authenticated observation exists.
+
+f)    Blockchain Data: recorded permanently on public decentralized networks and cannot be deleted or altered by us due to the immutable nature of blockchain technology.
 
 Deletion Requests. If you request deletion of your personal information, we will remove data from our active systems within 30 days, unless we are legally required or permitted to retain it. Data stored on blockchain networks is not subject to erasure due to its public and decentralized structure, but we will disconnect or anonymize associated metadata where possible.
 
